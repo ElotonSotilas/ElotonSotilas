@@ -3,7 +3,7 @@
 ---
 
 ### 🚀 About Me
-- 🎓 **BSc in Computer Science & Information Systems** (American University in Bulgaria, GPA: 3.266)
+- 🎓 **Bachelor in Computer Science & Information Systems** (American University in Bulgaria, GPA: 3.266)
 - 💻 **Junior Software Engineer & Systems Admin**
 - 🌍 **Languages:** English (C2), Bulgarian (Native), French (B2+)
 - 🔥 Passionate about **AI, IoT, cryptocurrencies, OS development, and web technologies**
