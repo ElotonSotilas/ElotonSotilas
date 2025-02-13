@@ -27,22 +27,35 @@
 
 ### 📂 Projects
 <details>
-  <summary><b>Backend in Rust for a Warehouse ERP System</b> ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)</summary>
+  <summary><b>Backend in Rust for a Warehouse ERP System</b></summary>
+
+  ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+
   🚀 Developed a **warehouse ERP system** backend in **Rust**, using **PostgreSQL** and **Rocket** framework. *(Devreer, 2024-2025)*
 </details>
 
 <details>
-  <summary><b>University Final Exam Scheduling Algorithm</b> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)</summary>
+  <summary><b>University Final Exam Scheduling Algorithm</b></summary>
+
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
   📅 Built a **scheduling algorithm** to optimize university final exam allocations.
 </details>
 
 <details>
-  <summary><b>Macro-Based JSON Parser Library</b> ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)</summary>
+  <summary><b>Macro-Based JSON Parser Library</b></summary>
+
+  ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+
   📜 Created a **user-friendly JSON parser** leveraging **macros**.
 </details>
 
 <details>
-  <summary><b>Thrymir Programming Language</b> ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![LLVM](https://img.shields.io/badge/LLVM-262D3A?style=flat&logo=llvm&logoColor=white)</summary>
+  <summary><b>Thrymir Programming Language</b></summary>
+
+  ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) 
+  ![LLVM](https://img.shields.io/badge/LLVM-262D3A?style=flat&logo=llvm&logoColor=white)
+
   🌱 Developing a **new functional programming language** called **Thrymir**, built in **C++** with an **LLVM backend**, and designed for **event-driven programming**.
 </details>
 
